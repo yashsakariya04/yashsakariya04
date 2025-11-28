@@ -152,22 +152,22 @@ Flask-based ML app with disease prediction using encoded features
 <div align="center">
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="www.linkedin.com/in/yashsakariya04">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />
 </a>
 
 <!-- GitHub -->
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/YOUR_USERNAME" target="www.linkedin.com/in/yashsakariya04">
   <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white&borderRadius=50" />
 </a>
 
 <!-- Email -->
-<a href="mailto:sakariyayash@gmail.com">
+<a href="mailto:sakariyayash04@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=50" />
 </a>
 
 <!-- Mobile Number -->
-<a href="tel:+917016484630">
+<a href="tel:+91 7016484630">
   <img src="https://img.shields.io/badge/Call-Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&borderRadius=50" />
 </a>
 
