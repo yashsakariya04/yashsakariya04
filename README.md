@@ -151,25 +151,37 @@ Flask-based ML app with disease prediction using encoded features
 # 🌐 Connect With Me
 <div align="center">
 
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="www.linkedin.com/in/yashsakariya04">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />
-</a>
+  <a href="LINKEDIN_LINK" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50"
+      style="margin:6px;"
+    />
+  </a>
 
-<!-- GitHub -->
-<a href="https://github.com/YOUR_USERNAME" target="www.linkedin.com/in/yashsakariya04">
-  <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white&borderRadius=50" />
-</a>
+  <a href="GITHUB_LINK" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <img
+      alt="GitHub"
+      src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white&borderRadius=50"
+      style="margin:6px;"
+    />
+  </a>
 
-<!-- Email -->
-<a href="mailto:sakariyayash04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=50" />
-</a>
+  <a href="EMAIL_LINK" target="_blank" rel="noopener noreferrer" title="Email">
+    <img
+      alt="Email"
+      src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=50"
+      style="margin:6px;"
+    />
+  </a>
 
-<!-- Mobile Number -->
-<a href="tel:+91 7016484630">
-  <img src="https://img.shields.io/badge/Call-Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&borderRadius=50" />
-</a>
+  <a href="PHONE_LINK" target="_blank" rel="noopener noreferrer" title="Call / WhatsApp">
+    <img
+      alt="Call"
+      src="https://img.shields.io/badge/Call-Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&borderRadius=50"
+      style="margin:6px;"
+    />
+  </a>
 
 </div>
 
