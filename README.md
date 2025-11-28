@@ -12,15 +12,15 @@
 <!-- BUTTONS -->
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/yashsakariya04">
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=6A5ACD&logo=github&logoColor=white&labelColor=4C1D95&borderRadius=50"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/yashsakariya04/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50"/>
 </a>
 
-<a href="mailto:sakariyayash@gmail.com">
+<a href="mailto:sakariyayash04@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=50"/>
 </a>
 
@@ -151,7 +151,7 @@ Flask-based ML app with disease prediction using encoded features
 # 🌐 Connect With Me
 <div align="center">
 
-  <a href="LINKEDIN_LINK" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/yashsakariya04/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img
       alt="LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50"
@@ -159,7 +159,7 @@ Flask-based ML app with disease prediction using encoded features
     />
   </a>
 
-  <a href="GITHUB_LINK" target="_blank" rel="noopener noreferrer" title="GitHub">
+  <a href="https://github.com/yashsakariya04/" target="_blank" rel="noopener noreferrer" title="GitHub">
     <img
       alt="GitHub"
       src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white&borderRadius=50"
@@ -167,7 +167,7 @@ Flask-based ML app with disease prediction using encoded features
     />
   </a>
 
-  <a href="EMAIL_LINK" target="_blank" rel="noopener noreferrer" title="Email">
+  <a href="mailto:sakariyayash04@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
     <img
       alt="Email"
       src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=50"
