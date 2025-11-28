@@ -148,19 +148,28 @@ Flask-based ML app with disease prediction using encoded features
 
 ---
 
-# 🌐 **Connect With Me**
+# 🌐 Connect With Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&borderRadius=50)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=50)](mailto:sakariyayash@gmail.com)
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white&borderRadius=50" />
+</a>
+
+<!-- Email -->
+<a href="mailto:sakariyayash@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=50" />
+</a>
+
+<!-- Mobile Number -->
+<a href="tel:+917016484630">
+  <img src="https://img.shields.io/badge/Call-Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&borderRadius=50" />
+</a>
 
 </div>
 
----
-
-<div align="center">
-
-### ⭐ *"Keep learning, keep building — rhythm never stops."*
-
-</div>
