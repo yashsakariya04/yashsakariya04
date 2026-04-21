@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=🚀+Building+Production-Grade+Agentic+AI+Systems;🤖+RAG+Pipelines+%7C+Multi-Agent+Platforms+%7C+LLMs;🐳+Deployed+on+Railway+%7C+Docker+%7C+MCP+Protocol;🔍+Computer+Vision+%7C+YOLOv8+%7C+Real-Time+Detection;💡+Turning+Real+Problems+Into+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Production-Grade+Agentic+AI+Systems;RAG+Pipelines+%7C+Multi-Agent+Platforms+%7C+LLMs;Deployed+on+Railway+%7C+Docker+%7C+MCP+Protocol;Computer+Vision+%7C+YOLOv8+%7C+Real-Time+Detection;Turning+Real+Problems+Into+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 <br/>
